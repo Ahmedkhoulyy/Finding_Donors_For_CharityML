@@ -1,5 +1,5 @@
 
-# Supervised Learning
+# Supervised Machine Learning
 ## Project: Finding Donors for CharityML
 
 ### Install
